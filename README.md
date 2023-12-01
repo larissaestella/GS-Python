@@ -27,7 +27,7 @@ A CareTech é um software de gerenciamento de registros médicos projetado para 
     •	LOGIN (acesse usando 'Admin')
     •	SENHA (acesse com 123456)
 
-2. Acessar os prontuários será preciso fazer o input dos seguintes dados do paciente:
+2. Acessar o cadastro será preciso fazer o input dos seguintes dados do paciente:
 
     •	NOME
     •	CPF
